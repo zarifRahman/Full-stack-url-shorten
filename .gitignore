@@ -1,0 +1,12 @@
+# frontend
+node_modules/
+.next/
+npm-debug.log*
+
+# backend
+/backend/server
+/backend/urlshortener
+*.test
+
+# os
+.DS_Store
